@@ -1,2 +1,3 @@
 this is first line
 this is conflict line
+this is merge conflict line
